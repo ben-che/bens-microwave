@@ -3,3 +3,13 @@
   width:100vw;
 }
 
+.microwave--button__container {
+  position: absolute;
+  left:75vw;
+  top:38vh;
+  height:50vh;
+  width:20vw;
+  border:6px solid black;
+  border-radius: 6px;
+}
+

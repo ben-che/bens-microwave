@@ -1,0 +1,10 @@
+.timer--background__color {
+    background: #222;
+    width:20vw;
+    height:15vh;
+    position: absolute;
+    top:10vh;
+    left:75vw;
+    border:6px solid black;
+    border-radius: 6px;
+}

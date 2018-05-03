@@ -1,0 +1,21 @@
+.button--background__color {
+    height:25%;
+    width:33%;
+    margin:0;
+    padding:0;
+    background-color:#222;
+    border:0.034vw solid #fff;
+    border-radius:1px;
+    margin-bottom:-0.08vh;
+    display:inline-block;
+    cursor:pointer;
+}
+
+p {
+    text-align:center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:#aaa;
+    font-size:1.4rem;
+}

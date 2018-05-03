@@ -1,0 +1,9 @@
+.divider--background__color {
+    background-color: #666;
+    width:6px;
+    height: 80vh;
+    position: absolute;
+    left:70vw;
+    top:10vh;
+    border-radius: 4px;
+}

@@ -13,9 +13,7 @@
 
 p {
     text-align:center;
-    display:flex;
-    justify-content: center;
-    align-items: center;
     color:#aaa;
     font-size:1.4rem;
+    padding-top:15%;
 }

@@ -1,0 +1,9 @@
+.door--background__colour {
+    background-color: #e9f2f5;
+    top:5vh;
+    left:5vw;
+    height:90vh;
+    width:60vw;
+    position: absolute;
+    border-radius: 30px;
+}

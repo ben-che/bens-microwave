@@ -1,0 +1,10 @@
+.handle--background__color {
+    background-color: #666;
+    height: 40vh;
+    width:10vh;
+    position: absolute;
+    top:30vh;
+    left:60vw;
+    z-index:10;
+    border-radius: 10px 0 0 10px;
+}
